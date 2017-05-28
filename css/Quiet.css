@@ -38,18 +38,18 @@ to{-webkit-transform:translate(-50%, -100%);transform:translate(-50%, -100%);}
 
 .help-container{display:none;}
 
-.account{border-top:none !important;padding:0 15px !important;background:#20262d;border-top: 2px solid #212121 !important;height: 72px;overflow: visible;z-index: 9;width: 310px;margin-left: -80px;box-sizing: border-box;}
+.account{border-top:none !important;padding:0 15px !important;background:#454950;border-top: 2px solid #212121 !important;height: 72px;overflow: visible;z-index: 9;width: 310px;margin-left: -80px;box-sizing: border-box;}
 
-.links{background-color:#20262d !important;}
+.links{background-color:#454950 !important;}
 
 .account .btn{background:transparent;box-shadow:none !important;}
 
 #voice-connection{z-index:9;border-top:none !important;/*width:285px;margin-left:-83px;*/
 padding:15px 20px 15px 18px !important;}
 
-#voice-connection .btn{background:#20262d;box-shadow:none !important;}
+#voice-connection .btn{background:#454950;box-shadow:none !important;}
 
-.title-wrap{border-bottom:#20262d !important;background:#20262d !important;}
+.title-wrap{border-bottom:#454950 !important;background:#454950 !important;}
 
 .chat .new-messages-bar{background-color:var(--main-color);}
 
@@ -57,7 +57,7 @@ padding:15px 20px 15px 18px !important;}
 
 .chat>.title-wrap>.topic{font-size:14px;margin-top:5px;color:#656565 !important;}
 
-.chat .divider>span{background:#20262d !important;font-size:12px;text-transform:uppercase;margin:0px 0px;border-radius:0px;opacity:1;padding:5px 15px;width:100%;text-align:center;}
+.chat .divider>span{background:#454950 !important;font-size:12px;text-transform:uppercase;margin:0px 0px;border-radius:0px;opacity:1;padding:5px 15px;width:100%;text-align:center;}
 
 .chat>.content .messages .message-group{border-bottom:none !important;}
 
@@ -65,7 +65,7 @@ padding:15px 20px 15px 18px !important;}
 
 .chat>.content .messages .message-group .markup{color:#aaaaaa;line-height:1.3em;padding:0;}
 
-.channel-textarea-inner{border: 0;background:#20262d !important;padding:0;border-radius: 0px!important;height: 100%;}
+.channel-textarea-inner{border: 0;background:#454950 !important;padding:0;border-radius: 0px!important;height: 100%;}
 
 .typing{font-size:11px; z-index: 3;margin-left: 18px;}
 
